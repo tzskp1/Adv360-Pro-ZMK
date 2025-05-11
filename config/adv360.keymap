@@ -34,11 +34,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp ESCAPE  &kp N1            &kp N2     &kp N3      &kp N4  &kp N5  &tog 1                                                                &mo 3      &kp N6  &kp N7     &kp N8     &kp N9            &kp N0             &kp BACKSLASH
-&kp TAB     &kp SINGLE_QUOTE  &kp COMMA  &kp PERIOD  &kp P   &kp Y   &none                                                                 &none      &kp F   &kp G      &kp C      &kp R             &kp L              &kp SLASH
-&kp LCTRL   &kp A             &kp O      &kp E       &kp U   &kp I   &none      &kp LCTRL  &kp LALT      &kp LGUI           &kp RCTRL      &none      &kp D   &kp H      &kp T      &kp N             &kp S              &kp MINUS
-&kp LSHFT   &kp SEMICOLON     &kp Q      &kp J       &kp K   &kp X                         &none         &kp LEFT_BRACKET                             &kp B   &kp M      &kp W      &kp V             &kp Z              &kp RSHFT
-&mo 2       &kp GRAVE         &none      &none       &none           &kp SPACE  &mo 2      &mo 1         &kp RIGHT_BRACKET  &kp BACKSPACE  &kp ENTER          &kp MINUS  &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &mo 2
+&kp ESCAPE  &kp N1            &kp N2     &kp N3      &kp N4  &kp N5  &tog 1                                                                 &mo 3      &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSLH
+&kp TAB     &kp SINGLE_QUOTE  &kp COMMA  &kp PERIOD  &kp P   &kp Y   &none                                                                  &none      &kp F   &kp G   &kp C   &kp R   &kp L   &kp SLASH
+&kp LCTRL   &kp A             &kp O      &kp E       &kp U   &kp I   &none      &kp LCTRL  &kp LALT       &kp LGUI           &kp RCTRL      &none      &kp D   &kp H   &kp T   &kp N   &kp S   &kp GRAVE
+&kp LSHFT   &kp SEMICOLON     &kp Q      &kp J       &kp K   &kp X                         &kp MINUS      &kp LEFT_BRACKET                             &kp B   &kp M   &kp W   &kp V   &kp Z   &kp RSHFT
+&mo 2       &none             &none      &none       &none           &kp SPACE  &mo 2      &kp EQUAL      &kp RIGHT_BRACKET  &kp BACKSPACE  &kp ENTER          &none   &none   &none   &none   &mo 2
             >;
         };
 
